@@ -256,6 +256,6 @@ main{
         width: 100%;
     }
     .lower p{
-        text-align: start;
+        text-align: left;
     }
 }
