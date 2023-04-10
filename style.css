@@ -255,4 +255,7 @@ main{
     .gallary{
         width: 100%;
     }
+    .lower p{
+        text-align: start;
+    }
 }
