@@ -243,7 +243,7 @@ main{
         float: right !important;
     }
     header{
-    background-image: url(@hummer.sandwich.png)
+    background-image: url("@hummer.sandwich.png")
     }
     .menu-img{
         width: 400px;
